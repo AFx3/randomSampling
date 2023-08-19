@@ -1,2 +1,24 @@
 # randomSampling
-A repo containing some random sampling algorithms in rust: sampling items from a known sequence length n; straming model with n kown aka scanning and selecting, straming model with n unkwown aka Reservoir Sampling 
+A repo containing some random sampling algorithms simulations in rust: 
+
+1. Reservoir sampling.
+2. Random samping with a known sequence length.
+3. Scanning and select: andom samping with a known sequence length - streaming model.
+
+Run:
+- install rust & cargo:
+
+        curl https://sh.rustup.rs -sSf | sh
+
+- clone the repository:
+
+        git clone https://github.com/AFx3/randomSampling
+
+-navigate trough the folders
+
+        cd randomSampling
+        cd randSampling
+        cargo run
+        
+        
+
