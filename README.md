@@ -2,8 +2,8 @@
 A repo containing some random sampling algorithms simulations in rust: 
 
 1. Reservoir sampling.
-2. Random samping with a known sequence length.
-3. Scanning and select: andom samping with a known sequence length - streaming model.
+2. Random sampling with a known sequence length.
+3. Scanning and select: random samping with a known sequence length - streaming model.
 
 Run:
 - install rust & cargo:
