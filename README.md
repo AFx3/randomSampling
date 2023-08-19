@@ -14,7 +14,7 @@ Run:
 
         git clone https://github.com/AFx3/randomSampling
 
-- navigate trough the folders
+- navigate through the folders
 
         cd randomSampling
         cd randSampling
